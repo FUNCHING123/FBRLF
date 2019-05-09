@@ -11,5 +11,9 @@ An efficient and geometric-distortion-free approach, namely Fast Binary Robust L
 
 In the main.cpp, there are two parameters(main (int argc, char** argv)). The argc means the target image and the argv is the number of comparison in the dataset.
 
+## Changelog
+
+March 2019, First Release
+
 ## Disclaimer
 The SOFTWARE PACKAGE provided in this page is provided "as is", without any guarantee made as to its suitability or fitness for any particular use. It may contain bugs, so the use of this tool is at your own risk. We take no responsibility for any damage of any sort that may unintentionally be caused through its use.
